@@ -1,5 +1,5 @@
 <div align="center">
-<img sr="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=250&section=header&text=COGNOS&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dont%20Just%20Personalize%20content.%20Personalize%20The%20Learner&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=250&section=header&text=COGNOS&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dont%20Just%20Personalize%20content.%20Personalize%20The%20Learner&descAlignY=58&descAlign=50" width="100%"/>
       
 <p align="center">
 <b>"Education doesn't fail because people can't learn.  
