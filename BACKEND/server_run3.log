@@ -1,0 +1,11 @@
+INFO:     Will watch for changes in these directories: ['C:\\Users\\BHAVESH\\Desktop\\My Projects\\HBTM\\COGNOS\\server']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [13832] using StatReload
+INFO:     Started server process [27548]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:63857 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63858 - "POST /goals HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63861 - "GET /teachers/b7986818-3dd7-46a8-8cdb-9a1825efca62 HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'db_raw.py'. Reloading...
+ 

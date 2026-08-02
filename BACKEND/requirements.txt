@@ -1,0 +1,8 @@
+requests
+feedparser
+beautifulsoup4
+youtube-transcript-api
+sentence-transformers
+supabase
+python-dotenv
+google-genai

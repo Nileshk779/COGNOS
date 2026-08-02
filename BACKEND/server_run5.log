@@ -1,0 +1,39 @@
+INFO:     Will watch for changes in these directories: ['C:\\Users\\BHAVESH\\Desktop\\My Projects\\HBTM\\COGNOS\\server']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [19268] using StatReload
+INFO:     Started server process [1508]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:49348 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59864 - "GET /marketplace/b7986818-3dd7-46a8-8cdb-9a1825efca62 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59873 - "GET /marketplace/b7986818-3dd7-46a8-8cdb-9a1825efca62 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49401 - "OPTIONS /me HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49401 - "GET /me HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49401 - "OPTIONS /home/summary/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49401 - "OPTIONS /home/today-steps/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49401 - "OPTIONS /notifications/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49401 - "OPTIONS /messages/conversations/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49401 - "OPTIONS /home/summary/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49401 - "OPTIONS /home/today-steps/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49401 - "GET /home/summary/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62840 - "GET /home/today-steps/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58404 - "GET /notifications/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55805 - "GET /onboarded HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49401 - "GET /home/summary/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62840 - "GET /home/today-steps/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65046 - "GET /messages/conversations/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65046 - "OPTIONS /marketplace/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56589 - "OPTIONS /marketplace/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65046 - "GET /marketplace/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65046 - "GET /marketplace/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60350 - "OPTIONS /onboarded HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54628 - "GET /me HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62478 - "GET /home/today-steps/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63499 - "GET /marketplace/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54628 - "GET /home/summary/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64359 - "GET /notifications/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54628 - "GET /home/summary/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62478 - "GET /home/today-steps/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63499 - "GET /marketplace/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51642 - "GET /messages/conversations/63e70246-45f7-44b5-9a70-2418b580fe51 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60350 - "GET /onboarded HTTP/1.1" 200 OK

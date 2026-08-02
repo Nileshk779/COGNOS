@@ -1,0 +1,39 @@
+INFO:     Will watch for changes in these directories: ['C:\\Users\\BHAVESH\\Desktop\\My Projects\\HBTM\\COGNOS\\server']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [31800] using StatReload
+INFO:     Started server process [28096]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:59904 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59905 - "POST /onboarding/interview/start HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60313 - "POST /onboarding/interview/21cf3868-2970-4dd7-bf8f-9226d9da464e/respond HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60317 - "POST /onboarding/interview/21cf3868-2970-4dd7-bf8f-9226d9da464e/respond HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60319 - "POST /onboarding/interview/21cf3868-2970-4dd7-bf8f-9226d9da464e/respond HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60320 - "POST /onboarding/interview/21cf3868-2970-4dd7-bf8f-9226d9da464e/respond HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60321 - "POST /onboarding/interview/21cf3868-2970-4dd7-bf8f-9226d9da464e/respond HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60323 - "POST /onboarding/interview/21cf3868-2970-4dd7-bf8f-9226d9da464e/respond HTTP/1.1" 502 Bad Gateway
+INFO:     127.0.0.1:60324 - "POST /onboarding/interview/21cf3868-2970-4dd7-bf8f-9226d9da464e/respond HTTP/1.1" 502 Bad Gateway
+INFO:     127.0.0.1:60325 - "POST /onboarding/interview/21cf3868-2970-4dd7-bf8f-9226d9da464e/respond HTTP/1.1" 502 Bad Gateway
+INFO:     127.0.0.1:60328 - "POST /onboarding/interview/21cf3868-2970-4dd7-bf8f-9226d9da464e/respond HTTP/1.1" 502 Bad Gateway
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|##########| 103/103 [00:00<?, ?it/s]
+[1mBertModel LOAD REPORT[0m from: sentence-transformers/all-MiniLM-L6-v2
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+[3mNotes:
+- UNEXPECTED[3m	:can be ignored when loading from different task/architecture; not ok if you expect identical arch.[0m
+INFO:     127.0.0.1:60332 - "POST /onboarding/interview/21cf3868-2970-4dd7-bf8f-9226d9da464e/respond HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60340 - "POST /onboarding/interview/21cf3868-2970-4dd7-bf8f-9226d9da464e/respond HTTP/1.1" 400 Bad Request
+WARNING:  StatReload detected changes in 'routers\onboarding_interview.py'. Reloading...
+ INFO:     127.0.0.1:49887 - "POST /onboarding/interview/start HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49891 - "POST /onboarding/interview/d1e61a0c-9dd4-4888-8e78-56de7d316380/respond HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49895 - "POST /onboarding/interview/d1e61a0c-9dd4-4888-8e78-56de7d316380/respond HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49901 - "POST /onboarding/interview/d1e61a0c-9dd4-4888-8e78-56de7d316380/respond HTTP/1.1" 502 Bad Gateway
+INFO:     127.0.0.1:49908 - "POST /onboarding/interview/d1e61a0c-9dd4-4888-8e78-56de7d316380/respond HTTP/1.1" 502 Bad Gateway
+INFO:     127.0.0.1:49912 - "POST /onboarding/interview/d1e61a0c-9dd4-4888-8e78-56de7d316380/respond HTTP/1.1" 502 Bad Gateway
+INFO:     127.0.0.1:49916 - "POST /onboarding/interview/d1e61a0c-9dd4-4888-8e78-56de7d316380/respond HTTP/1.1" 502 Bad Gateway
+INFO:     127.0.0.1:49920 - "POST /onboarding/interview/d1e61a0c-9dd4-4888-8e78-56de7d316380/respond HTTP/1.1" 502 Bad Gateway
+INFO:     127.0.0.1:52693 - "POST /onboarding/interview/d1e61a0c-9dd4-4888-8e78-56de7d316380/respond HTTP/1.1" 502 Bad Gateway
+INFO:     127.0.0.1:52706 - "POST /onboarding/interview/start HTTP/1.1" 502 Bad Gateway
